@@ -1,4 +1,4 @@
-## Welcome to wsgendb
+## Welcome to wsgendb!
 
 Here is the public Github Profile of the wsgen project.
 
